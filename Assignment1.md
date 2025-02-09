@@ -8,7 +8,7 @@ Section:
 
 # Personal Background
 
-I have worked professionally in dev ops for a couple of years so Any Questions Related to it i'll answer from my expertise and compare it with the AI Answer 
+I have worked professionally in DevOps for a couple of years so Any Questions Related to it i'll answer from my expertise and Then Get the AI Answer 
 
 # Assignment 1
 
