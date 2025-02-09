@@ -29,28 +29,30 @@ The Prompt:
 
 Generated Images :
 
-![Description: A large data center with rows of servers, indicating the scale and complexity of modern computing infrastructure.](Datacenter1.jpg)
-
+![data center with rows of servers](Datacenter1.jpg)
+Description: A large data center with rows of servers, indicating the scale and complexity of modern computing infrastructure.
 Link: https://www.google.com/url?sa=E&source=gmail&q=https://www.istockphoto.com/photos/data-center-servers
 
 
-![Description: A technician working on a server in a data center, highlighting the human element and the importance of maintenance and upkeep.](Datacenter2.jpg)
-
+![data center with a technician working on a server](Datacenter2.jpg)
+Description: A technician working on a server in a data center, highlighting the human element and the importance of maintenance and upkeep.
 Link: https://www.google.com/search?q=https://www.shutterstock.com/image-photo/it-engineer-rack-server-room-260nw-1052601726.jpg
 
-![Description: A close-up of cooling systems in a data center, emphasizing the importance of thermal management in maintaining the performance and reliability of servers.](Datacenter3.jpg)
-
+![data center with a focus on cooling systems](Datacenter3.jpg)
+Description: A close-up of cooling systems in a data center, emphasizing the importance of thermal management in maintaining the performance and reliability of servers.
 Link: https://www.google.com/search?q=https://www.gettyimages.com/detail/photo/data-center-cooling-system-royalty-free-image/171358990
 
-![Description: A data center with security measures in place, such as surveillance cameras and access control systems, highlighting the importance of protecting sensitive data.](Datacenter4.jpg)
-
+![data center with a focus on security](Datacenter4.jpg)
+Description: A data center with security measures in place, such as surveillance cameras and access control systems, highlighting the importance of protecting sensitive data.
 Link: https://www.google.com/search?q=https://www.dreamstime.com/data-center-security-system-image172667107
 
-![Description: A data center with a focus on energy efficiency, such as renewable energy sources and innovative cooling solutions, emphasizing the importance of sustainability in modern data centers.](Datacenter5.jpg)
-
+![data center with a focus on energy efficiency](Datacenter5.jpg)
+Description: A data center with a focus on energy efficiency, such as renewable energy sources and innovative cooling solutions, emphasizing the importance of sustainability in modern data centers.
 Link: https://www.google.com/search?q=https://www.datacenterknowledge.com/energy/how-microsoft-aims-make-its-data-centers-carbon-negative
 
-
+However DataCenter4 Isn't a Datacenter at All it seems to have gotten it from an Article Speaking about a Datacenter However I'll Include an image of the outside of a Datacenter Just for Refrence Purposes
+![A Meta DataCenter](image.png)
+Link : https://datacenters.atmeta.com/wp-content/uploads/2023/03/PRN-1.jpg?resize=1536,768
 
 ## Question 2
 
@@ -303,16 +305,3 @@ POPs form the backbone of Xbox Live’s infrastructure by:
 - Efficiently managing heavy traffic loads,
 - Delivering digital content swiftly, and
 - Enhancing overall service resilience and performance.
-
-
-
-
-
-
-
-
-
-
-
-
-
