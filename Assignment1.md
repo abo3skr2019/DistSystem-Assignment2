@@ -7,6 +7,7 @@ I have worked professionally in DevOps for a couple of years so Any Questions Re
 # Assignment 1
 
 Note: The Fact Since Time has passed so there has been an improvement in the Gemini Model Which may cause some differences in response from other submissions
+Also the Plain Text of this document is Available at [Github](https://github.com/abo3skr2019/DistSystem-Assignment2/blob/main/Assignment1.md)
 
 ## Question 1 
 
