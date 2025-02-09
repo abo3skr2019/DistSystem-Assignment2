@@ -6,6 +6,10 @@ pandoc Assignment1.md \
   --toc \
   -V toc-own-page=true \
   -V title="Assignment 1" \
+  -V subtitle="Distributed Systems" \
+  -V titlepage=true \
+  -V papersize=a4 \
+  -V fontsize=12pt \
   -V author="Abdulaziz Askar" \
   -V lang=en \
   -V colorlinks=true \
@@ -13,5 +17,6 @@ pandoc Assignment1.md \
   -V mainfont="Times New Roman" \
   -V sansfont="Times New Roman" \
   -V monofont="Times New Roman" \
+  -V fontfamily="times" \
   -V caption-justification=centering \
   -V block-headings=true
