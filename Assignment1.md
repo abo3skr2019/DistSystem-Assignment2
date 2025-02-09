@@ -62,7 +62,7 @@ The Terms Cloud and Datacenters are closely Tied Together Since Datacenters are 
 
 ### ChatGPT Answer
 
-Keywords: Network , AWS , Azure , Subscription Model , Risks , Cyber Attacks
+Keywords: Network , AWS ,  , Subscription Model , Risks
 
 Prompt : " write a meaningful sentences that link the two keywords cloud and datacenter. the sentence must contain the words cloud, datacenter, and **Keyword** "
 
