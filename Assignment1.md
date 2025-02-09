@@ -1,8 +1,5 @@
-# Student Info
 
-Name: 
-Course: 
-Section: 
+
 
 ---
 
@@ -12,7 +9,7 @@ I have worked professionally in DevOps for a couple of years so Any Questions Re
 
 # Assignment 1
 
-Note The Fact Since Time has passed there has been an improvement in the Gemini Model Which may cause some differences in response from other submissions
+Note: The Fact Since Time has passed so there has been an improvement in the Gemini Model Which may cause some differences in response from other submissions
 
 ## Question 1 
 
@@ -30,29 +27,41 @@ The Prompt:
 Generated Images :
 
 ![data center with rows of servers](Datacenter1.jpg)
-Description: A large data center with rows of servers, indicating the scale and complexity of modern computing infrastructure.
-Link: https://www.google.com/url?sa=E&source=gmail&q=https://www.istockphoto.com/photos/data-center-servers
+
+Figure 1 Description: A large data center with rows of servers, indicating the scale and complexity of modern computing infrastructure.
+
+[Link](https://www.google.com/url?sa=E&source=gmail&q=https://www.istockphoto.com/photos/data-center-servers)
 
 
 ![data center with a technician working on a server](Datacenter2.jpg)
-Description: A technician working on a server in a data center, highlighting the human element and the importance of maintenance and upkeep.
-Link: https://www.google.com/search?q=https://www.shutterstock.com/image-photo/it-engineer-rack-server-room-260nw-1052601726.jpg
+
+Figure 2 Description: A technician working on a server in a data center, highlighting the human element and the importance of maintenance and upkeep.
+
+[Link](https://www.google.com/search?q=https://www.shutterstock.com/image-photo/it-engineer-rack-server-room-260nw-1052601726.jpg)
 
 ![data center with a focus on cooling systems](Datacenter3.jpg)
-Description: A close-up of cooling systems in a data center, emphasizing the importance of thermal management in maintaining the performance and reliability of servers.
-Link: https://www.google.com/search?q=https://www.gettyimages.com/detail/photo/data-center-cooling-system-royalty-free-image/171358990
+
+Figure 3 Description: A close-up of cooling systems in a data center, emphasizing the importance of thermal management in maintaining the performance and reliability of servers.
+
+[Link](https://www.google.com/search?q=https://www.gettyimages.com/detail/photo/data-center-cooling-system-royalty-free-image/171358990)
 
 ![data center with a focus on security](Datacenter4.jpg)
-Description: A data center with security measures in place, such as surveillance cameras and access control systems, highlighting the importance of protecting sensitive data.
-Link: https://www.google.com/search?q=https://www.dreamstime.com/data-center-security-system-image172667107
+
+Figure 4 Description: A data center with security measures in place, such as surveillance cameras and access control systems, highlighting the importance of protecting sensitive data.
+
+[Link](https://www.google.com/search?q=https://www.dreamstime.com/data-center-security-system-image172667107)
 
 ![data center with a focus on energy efficiency](Datacenter5.jpg)
-Description: A data center with a focus on energy efficiency, such as renewable energy sources and innovative cooling solutions, emphasizing the importance of sustainability in modern data centers.
-Link: https://www.google.com/search?q=https://www.datacenterknowledge.com/energy/how-microsoft-aims-make-its-data-centers-carbon-negative
 
-However DataCenter4 Isn't a Datacenter at All it seems to have gotten it from an Article Speaking about a Datacenter However I'll Include an image of the outside of a Datacenter Just for Refrence Purposes
-![A Meta DataCenter](image.png)
-Link : https://datacenters.atmeta.com/wp-content/uploads/2023/03/PRN-1.jpg?resize=1536,768
+Figure 5 Description: A data center with a focus on energy efficiency, such as renewable energy sources and innovative cooling solutions, emphasizing the importance of sustainability in modern data centers.
+
+[Link](https://www.google.com/search?q=https://www.datacenterknowledge.com/energy/how-microsoft-aims-make-its-data-centers-carbon-negative)
+
+However DataCenter 4 Isn't an image of a Datacenter at All it seems to have gotten it from an Article Speaking about a Datacenter However I'll Include an image of the outside of a Datacenter Just for Refrence
+
+![A Meta DataCenter](Cropped_Image.png)
+
+[Link](https://datacenters.atmeta.com/wp-content/uploads/2023/03/PRN-1.jpg?resize=1536,768)
 
 ## Question 2
 
@@ -82,7 +91,7 @@ Response : " A cloud service relies on a robust **network** infrastructure to ef
 
 #### Risks : 
 
-Response : " Storing data in the cloud reduces the need for a physical datacenter, but it also introduces security and compliance risks that organizations must carefully manage. "
+Response : " Storing data in the cloud reduces the need for a physical datacenter, but it also introduces security and compliance **risks** that organizations must carefully manage. "
 
 ## Question 3 
 
@@ -96,7 +105,7 @@ It is Because AI Apps Such as Gemini,ChatGPT and Deepseek Extensivly Use the Clo
 
 Prompt: 
 "
-PlainText of The Assignment Within markdown CodeBlocks
+*PlainText of The Assignment Within markdown CodeBlocks*
 
 why was this assignment a part of the requirements in a course on distributed systems.
 "
@@ -138,7 +147,7 @@ This assignment is a key part of a distributed systems course because it evaluat
 
 #### Summarized Response:
 
- - Understanding Distributed System Concepts: The tasks within the assignment implicitly cover several crucial distributed systems concepts: Such as Scalability, Availability & Resiliency, Networking, Resource Management , and Data Consistency
+- Understanding Distributed System Concepts: The tasks within the assignment implicitly cover several crucial distributed systems concepts: Such as Scalability, Availability & Resiliency, Networking, Resource Management , and Data Consistency
 
 - Practical Application and Exploration: The virtual tour of the Microsoft Datacenter provides a real-world context for the theoretical concepts.  Students aren't just reading about distributed systems; they're exploring a concrete example of one. 
 
@@ -238,6 +247,7 @@ Because its where people might Say the Magic Happens , as it is where most of th
 #### Gemini
 
 Server rooms are the core of data centers.
+
 They are responsible for centralized computing, where most data processing and storage take place.
 Server rooms are essential for data center operations; without them, the data center cannot function.
 They interconnect with all other data center systems like power, cooling, and security.
@@ -251,7 +261,9 @@ It plays a vital role in:
 - Network communications
 
 Just like a heart pumps blood to sustain the body, the server room distributes computing resources to support business operations.
+
 It ensures:
+
 - Reliability: Keeps systems running without interruptions.
 - Security: Protects sensitive information.
 - Efficiency: Optimizes IT performance for smooth operations.
@@ -265,7 +277,7 @@ A Blade is a Special Form Factor of Server Designed to Have as Much Computing Po
 
 Blade Image : 
 
-![A Man Inserting A Blade into a Blade Enclosure ](Rack-server-and-blade-server-together.webp)
+![A Man Inserting A Blade into a Blade Enclosure ](Rack-server-and-blade-server-together.jpeg)
 
 #### Gemini Answer
 
@@ -276,6 +288,8 @@ a blade’s specification "
 
 Technical Specification:
 A server blade is a compact, modular computing device designed for high density and energy efficiency. It houses essential components like processors, memory, and network interfaces on a single board, which is then inserted into a blade enclosure.This enclosure provides shared resources like power, cooling, and network connectivity, reducing space and infrastructure needs compared to traditional rack servers.  
+
+
 
 ### POPS & Xbox Live
 
@@ -305,3 +319,8 @@ POPs form the backbone of Xbox Live’s infrastructure by:
 - Efficiently managing heavy traffic loads,
 - Delivering digital content swiftly, and
 - Enhancing overall service resilience and performance.
+
+
+
+
+

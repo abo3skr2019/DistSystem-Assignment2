@@ -1,0 +1,16 @@
+pandoc Assignment1.md \
+  -o Assignment1.pdf \
+  --from markdown \
+  --template eisvogel \
+  --listings \
+  --toc \
+  -V toc-own-page=true \
+  -V title="Assignment 1" \
+  -V author="Abdulaziz Fahad Askar" \
+  -V lang=en \
+  -V colorlinks=true \
+  -V geometry="margin=1in" \
+  -V mainfont="Times New Roman" \
+  -V sansfont="Times New Roman" \
+  -V monofont="Times New Roman" \
+  -V caption-justification=centering
