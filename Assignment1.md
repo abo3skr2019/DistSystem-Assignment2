@@ -109,35 +109,40 @@ The reason this assignment is part of the course requirements is that it helps i
 
 This assignment is a key part of a distributed systems course because it evaluates technical understanding, research, and writing skills. It helps students learn about the practical aspects of distributed systems, such as cloud, data centers, server architecture, and network protocols. By incorporating real-world examples like a Microsoft Datacenter tour, it links academic theory to industry practice. It also encourages critical thinking and the use of AI tools for data analysis, all of which are essential components in learning about distributed systems."
 
-Response : 
-" 
-This assignment is integrated into a distributed systems course because it bridges theoretical concepts with real-world applications by engaging students in a hands-on exploration of the infrastructure and operational principles that underpin modern distributed computing. Here are some key reasons:
+##### Summarized Response : 
 
-    Real-World Exposure:
-    The virtual tour of the Microsoft Datacenter allows students to see firsthand how a distributed system is structured and managed. By navigating through different rooms (lobby, operations, server, and network), students gain insight into the physical and logical components of a large-scale system, such as how data centers support cloud services.
+**Purpose**: This assignment bridges theoretical concepts with real-world applications in distributed systems. It provides hands-on experience with infrastructure and operational principles.  
 
-    Understanding Core Concepts:
-    The assignment emphasizes essential distributed systems concepts like availability, resiliency, and network operations. For instance, by investigating why the server room is described as the “heart” of the datacenter or exploring the relationship between Points of Presence (POPs) and services like Xbox Live, students learn how these principles ensure that distributed systems remain robust, efficient, and scalable.
+- **Real-World Exposure**:  
+  - A virtual tour of the Microsoft Datacenter helps students understand distributed system structure and management.  
+  - Exploring different rooms (lobby, operations, server, and network) provides insights into physical and logical components supporting cloud services.  
 
-    Integration of Modern Tools and Practices:
-    By requiring the use of AI models (Gemini and ChatGPT) to extract, analyze, and synthesize information, the assignment mirrors current industry practices. This approach not only reinforces theoretical knowledge but also enhances students’ ability to leverage modern technologies for problem-solving and data interpretation in distributed systems.
+- **Understanding Core Concepts**:  
+  - Focuses on key distributed systems principles like availability, resiliency, and network operations.  
+  - Examines the server room as the “heart” of the datacenter and the function of Points of Presence (POPs) in services like Xbox Live.  
 
-    Linking Theory to Practice:
-    The tasks involve critical analysis of multimedia resources (images and videos) and require students to articulate their findings through well-structured technical descriptions and summaries. This process of connecting visual and textual data with theoretical constructs from textbooks reinforces a deep understanding of how distributed systems operate in dynamic environments.
+- **Integration of Modern Tools and Practices**:  
+  - Requires using AI models (Gemini and ChatGPT) for data extraction, analysis, and synthesis.  
+  - Encourages leveraging modern technologies for problem-solving in distributed systems.  
 
-Overall, the assignment is designed to ensure that students can apply abstract concepts of distributed systems to practical, real-world scenarios, thereby preparing them for challenges they may encounter in industry roles related to cloud computing and data center management. "
+- **Linking Theory to Practice**:  
+  - Involves critical analysis of multimedia resources (images, videos).  
+  - Students articulate findings through structured technical descriptions, reinforcing theoretical knowledge with practical applications.  
+
+**Conclusion**: This assignment ensures students can apply abstract distributed systems concepts to real-world scenarios, preparing them for industry roles in cloud computing and data center management.  
+
 
 #### Gemini
 
-Summarized Response:
-" 
-    - Understanding Distributed System Concepts: The tasks within the assignment implicitly cover several crucial distributed systems concepts: Such as Scalability, Availability & Resiliency, Networking, Resource Management , and Data Consistency
+#### Summarized Response:
 
-    - Practical Application and Exploration: The virtual tour of the Microsoft Datacenter provides a real-world context for the theoretical concepts.  Students aren't just reading about distributed systems; they're exploring a concrete example of one. 
+ - Understanding Distributed System Concepts: The tasks within the assignment implicitly cover several crucial distributed systems concepts: Such as Scalability, Availability & Resiliency, Networking, Resource Management , and Data Consistency
 
-    - Use of AI Tools: The assignment encourages the use of ChatGPT and Gemini.  This is likely  to familiarize students with tools that are increasingly used in distributed systems development and management.
+- Practical Application and Exploration: The virtual tour of the Microsoft Datacenter provides a real-world context for the theoretical concepts.  Students aren't just reading about distributed systems; they're exploring a concrete example of one. 
 
-    - Emphasis on Individual Work and Academic Integrity: The strict policy regarding individual work and plagiarism is crucial.  Distributed systems projects often involve collaborative work, and it's essential for students to develop their own understanding and avoid plagiarism.  This policy reinforces the importance of original thought and ethical practices.
+- Use of AI Tools: The assignment encourages the use of ChatGPT and Gemini.  This is likely  to familiarize students with tools that are increasingly used in distributed systems development and management.
+
+- Emphasis on Individual Work and Academic Integrity: The strict policy regarding individual work and plagiarism is crucial.  Distributed systems projects often involve collaborative work, and it's essential for students to develop their own understanding and avoid plagiarism.  This policy reinforces the importance of original thought and ethical practices.
 
 In summary, this assignment is designed to immerse students in the world of distributed systems by exploring the physical and conceptual aspects of datacenters and cloud computing. It encourages them to learn key concepts, apply them in a practical setting, and utilize relevant AI tools, all while maintaining academic integrity. "
 
