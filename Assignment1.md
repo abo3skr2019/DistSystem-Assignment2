@@ -151,3 +151,19 @@ This assignment is part of a distributed systems course for several key reasons,
 In summary, this assignment is designed to immerse students in the world of distributed systems by exploring the physical and conceptual aspects of datacenters and cloud computing. It encourages them to learn key concepts, apply them in a practical setting, and utilize relevant AI tools, all while maintaining academic integrity. "
 
 
+## Question 4
+
+### My Answers 
+
+why a server room is described as the “heart” of the datacenter?
+
+Because its where people might Say the Magic Happens , as it is where most of the Technical Infrastructure resides 
+
+What is a Blade : 
+A Blade is a Special Form Factor of Server Designed to Have as Much Computing Power as Possible in the Smallest Physical Footprint Ie Width and Length by Removing as Much Possibly Shared Components as possible such as power, cooling, and networking
+
+Blade Image : 
+
+![A Man Inserting A Blade into a Blade Enclosure ](Rack-server-and-blade-server-together.webp)
+
+### Gemini Answer
